@@ -67,8 +67,7 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### 📊 My Stats:
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=আপনার-ইউজারনেম&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=আপনার-ইউজারনেম&layout=compact&theme=tokyonight" />
-</p>
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anurag619/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/anurag619/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_NAME&theme=radical)](https://github.com/anurag619/github-readme-stats)
