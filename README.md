@@ -50,9 +50,12 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafi-row&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="rafi-row's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafi-row&theme=tokyonight&hide_border=true" alt="rafi-row's GitHub streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi-row&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
