@@ -1,15 +1,10 @@
 # Welcome to my GitHub account! ✨
 
 - 🥣 Frontend Dev | Learning Backend | MERN Stack in Progress 🙌
-  
 - 🌱 Exploring *React, Next.js, and Node.js*
-  
 - 🎯 Goal: Become a *Professional Full Stack Developer & Freelancer*
-  
 - 🚀 Dream: To build impactful products & inspire the dev community
-  
 - 🧠 Turning ideas into interactive web solutions
-  
 - 💡 Passionate about *Cyber Security & AI/ML*
 
 ---
@@ -35,7 +30,8 @@
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25px" />
@@ -47,8 +43,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Astro-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Portfolio-%23FF4B00.svg?style=for-the-badge&logo=About.me&logoColor=white" height="25px" />
-  <img src="https://img.shields.io/badge/Astro-%230C0F14.svg?style=for-the-badge&logo=Astro&logoColor=white" alt="Astro">
 </p>
 
 ---
