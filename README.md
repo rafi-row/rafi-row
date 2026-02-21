@@ -1,8 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/master/wave.gif" width="30px"> Hi, I'm Rafi! 
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=rafi-row&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+# Hi there, I'm Rafi! 👋
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Web Development**
@@ -10,8 +6,9 @@
 - 💬 Ask me about **HTML, CSS, or anything tech!**
 
 ---
+
 ### 🛠️ Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,15 +37,13 @@
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
   <img src="https://img.shields.io/badge/Portfolio-FF4B00?style=for-the-badge&logo=About.me&logoColor=white" />
 </p>
 
- 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafi-row&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafi-row&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafi-row&show_icons=true&theme=tokyonight&hide_border=true" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafi-row&theme=tokyonight&hide_border=true" height="170px" />
 </p>
