@@ -51,7 +51,7 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
