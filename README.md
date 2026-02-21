@@ -47,6 +47,6 @@
 
 ## GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafi-row&theme=dark&stroke=ffffff&fire=40ff80&ring=40ff80&currStreakNum=bf5af2&sideNums=bf5af2&currStreakLabel=bf5af2&sideLabels=40ff80&dates=ffffff&hide_border=false" height="190px" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafi-row&theme=dark&stroke=ffffff&fire=F24E1E&ring=F24E1E&currStreakNum=bf5af2&sideNums=bf5af2&currStreakLabel=bf5af2&sideLabels=F24E1E&dates=ffffff&hide_border=false" height="190px" />
 </p>
