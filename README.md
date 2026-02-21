@@ -51,15 +51,17 @@
   <img src="https://img.shields.io/badge/Astro-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Portfolio-%23FF4B00.svg?style=for-the-badge&logo=About.me&logoColor=white" />
   </p>
- 
-
 ---
 
 ## 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false&border_color=ffffff" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&border_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_color=ffffff" alt="GitHub Stats" />
+</p>
 
 ---
