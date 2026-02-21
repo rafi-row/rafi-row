@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Astro-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Portfolio-%23FF4B00.svg?style=for-the-badge&logo=About.me&logoColor=white" />
   </p>
----
+
 
 ## 📊 GitHub Stats:
 
