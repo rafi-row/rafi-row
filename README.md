@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25px" />
   <img src="https://img.shields.io/badge/Portfolio-%23FF4B00.svg?style=for-the-badge&logo=About.me&logoColor=white" height="25px" />
+  <img src="https://img.shields.io/badge/Astro-%230C0F14.svg?style=for-the-badge&logo=Astro&logoColor=white" alt="Astro">
 </p>
 
 ---
