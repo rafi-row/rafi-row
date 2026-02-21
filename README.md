@@ -54,6 +54,13 @@
 
 ---
 
-### 🛠 Languages and Tools:
+### 📊 My GitHub Stats:
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Astro-%230C0F14.svg?style=for-the-badge&logo=Astro&logoColor=white" alt="Astro"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=আপনার-ইউজারনেম&show_icons=true&theme=tokyonight&hide_border=false" alt="Stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=আপনার-ইউজারনেম&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages Card" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=আপনার-ইউজারনেম&repo=github-readme-stats&theme=tokyonight" alt="Pinned Repo" />
+</p>
