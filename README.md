@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
   <img src="https://img.shields.io/badge/Portfolio-FF4B00?style=for-the-badge&logo=About.me&logoColor=white" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
