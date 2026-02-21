@@ -76,6 +76,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=github-readme-stats&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=anuraghazra.github.io&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPLACE_WITH_YOUR_REPO_NAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPLACE_WITH_ANOTHER_REPO_NAME&theme=radical" />
 </p>
