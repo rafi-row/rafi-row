@@ -57,8 +57,7 @@
 ### 📊 GitHub Stats:
 
 <br>
-<br>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafi-row&theme=tokyonight" alt="GitHub Streak" />
 </p>
+<br>
