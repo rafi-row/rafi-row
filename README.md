@@ -55,7 +55,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<hr>
+<div style="height: 1px; background-color: #30363d; border: none;"></div>
 <br>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafi-row&theme=tokyonight" alt="GitHub Streak" />
